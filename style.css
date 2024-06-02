@@ -1,0 +1,24 @@
+#tables {
+    align-items: center;
+    color: blue;
+}
+
+.center {
+    text-align: center;
+}
+
+.color1 {
+    color: #783fc2;
+}
+
+.color2 {
+    color: #0e46a3;
+}
+
+.text-font {
+    font-family: "Reddit Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: smaller;
+}
